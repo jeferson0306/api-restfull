@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "Jeferson Siqueira",
+    "username": "jeferson",
+    "email": "jeferson0306@msn.com",
+    "address": "Asa norte",
+    "phone": "32428416"
+  },
+  {
+    "id": 2,
+    "name": "Joyce Hellen",
+    "username": "joyce",
+    "email": "joyce@outlook.com",
+    "address": "Asa Sul",
+    "phone": "98745632"
+  }
+]
